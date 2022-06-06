@@ -38,3 +38,4 @@ for i in range(2, 100):
 
     data_p = p.DataFrame.from_dict(data)
     data_p.to_csv('/home/hgroschaus/pproj/python/web_scrapping/beautifulsoup/data.csv')
+    
